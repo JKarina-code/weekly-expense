@@ -8,7 +8,7 @@ This project is a tool made in vanilla javascript that is used to manage your bu
 
 ## 📁 Project access
 
-- $ git clone https://github.com/JKarina-code/patient-manager.git
+- $ git clone https://github.com/JKarina-code/weekly-expense.git
 - $ cd ../path/to/the/file
 
 ## 🛠️ Used technology
